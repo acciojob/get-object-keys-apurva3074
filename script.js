@@ -1,5 +1,8 @@
 let student ={
-	name:"John"
+	name:"John",
+	age:23,
+	address:"Pune"
+	
 }
 
 function getKeys(obj){
